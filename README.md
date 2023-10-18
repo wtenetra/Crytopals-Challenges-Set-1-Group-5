@@ -9,7 +9,7 @@ This repository contains the code for Set 1 of the Cryptopal Challenges. The goa
  - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
  - 
  -  ## Project Structure Challenge 3
- - 'Cryptopals_Challenge3.2.cpp'
+ - 'Cryptopals_Challenge3.2.cpp': Contains the main code for Challenge 3
  - 
  -  ## Project Structure Challenge 4
  - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
