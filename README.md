@@ -12,7 +12,8 @@ This repository contains the code for Set 1 of the Cryptopal Challenges. The goa
  - 'Cryptopals_Challenge3.2.cpp': Contains the main code for Challenge 3
  - 
  -  ## Project Structure Challenge 4
- - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
+ - 'Cryptopals_Challenge4.cpp': Contains the main code for Challenge 4
+ - 'thisfile.txt': Text file from the Cryptopals Challenge 4 website. (the direct link to the file is: https://cryptopals.com/static/challenge-data/4.txt)
  - 
  -  ## Project Structure Challenge 5
  - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
