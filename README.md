@@ -32,11 +32,11 @@ This repository contains the code for Set 1 of the Cryptopal Challenges. The goa
 
 ## Getting Started
 
-### Prerequisites 
+### Prerequisites for Challenge 7
 
 To run this project, you will need OpenSSL library. You can install it using your system's package manager or by following the instructions on the [OpenSSL website](https://www.openssl.org/source/) or via YouTube link https://www.youtube.com/watch?v=PMHEoBkxYaQ.
 
-### Running the Project
+### Running the Challenge 7 Project
 
 1. Clone the repository
    'git clone https://github.com/wtenetra/Cryptopals-Challenges-Set-1-Group-5.git'
