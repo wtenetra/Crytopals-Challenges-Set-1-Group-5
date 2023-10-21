@@ -30,7 +30,8 @@ This repository contains the code for Set 1 of the Cryptopal Challenges. The goa
  - 'ch7.txt': Text file with Base64-encoded content encrypted via AES-128 in ECB mode.
    
  -  ## Project Structure Challenge 8
- - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
+ - 'Challenge_8.cpp': Contains the main code for Challenge 8
+ - 'Challenge_8.txt': Text file for Crytopals Set 1 Challenge 8
  
 
 ## Getting Started
