@@ -4,29 +4,29 @@ This repository contains the code for Set 1 of the Cryptopal Challenges. The goa
 
  -  ## Project Structure Challenge 1
  - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
- - 
+   
  -  ## Project Structure Challenge 2
  - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
- - 
+   
  -  ## Project Structure Challenge 3
  - 'Cryptopals_Challenge3.2.cpp': Contains the main code for Challenge 3
- - 
+   
  -  ## Project Structure Challenge 4
  - 'Cryptopals_Challenge4.cpp': Contains the main code for Challenge 4
  - 'thisfile.txt': Text file from the Cryptopals Challenge 4 website. (the direct link to the file is: https://cryptopals.com/static/challenge-data/4.txt)
- - 
+   
  -  ## Project Structure Challenge 5
  - 'Challenge6.cpp': Contains the full code for challenge 6
  - '6.txt': Contains the text file need for decryption
- - 
+   
  -  ## Project Structure Challenge 6
  - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
- - 
+   
  -  ## Project Structure Challenge 7
  - 'crypto.cpp': Contains the main code for Challenge 7
  - 'Crytopals.h': Header file with utility functions.
  - 'ch7.txt': Text file with Base64-encoded content encrypted via AES-128 in ECB mode.
- - 
+   
  -  ## Project Structure Challenge 8
  - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
  
