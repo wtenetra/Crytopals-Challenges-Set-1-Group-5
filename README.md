@@ -3,11 +3,11 @@
 This repository contains the code for Set 1 of the Cryptopal Challenges. The goal of the project is to learn about cryptography and cryptosystems by completing these challenges.
 
  -  ## Project Structure Challenge 1
- - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
- - 
+ - Cryptopals.h: Contains functions and implementation
+ - 'Main.cpp': Contains main code for Challenge 1
  -  ## Project Structure Challenge 2
- - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
- - 
+ - Cryptopals.h: Contains functions and implementation
+ - 'Main.cpp': Contains main code for Challenge 1
  -  ## Project Structure Challenge 3
  - 'Cryptopals_Challenge3.2.cpp': Contains the main code for Challenge 3
  - 
