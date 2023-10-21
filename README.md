@@ -16,7 +16,8 @@ This repository contains the code for Set 1 of the Cryptopal Challenges. The goa
  - 'thisfile.txt': Text file from the Cryptopals Challenge 4 website. (the direct link to the file is: https://cryptopals.com/static/challenge-data/4.txt)
  - 
  -  ## Project Structure Challenge 5
- - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
+ - 'Challenge6.cpp': Contains the full code for challenge 6
+ - '6.txt': Contains the text file need for decryption
  - 
  -  ## Project Structure Challenge 6
  - Put a breakdown of your files here Follow Tenetra's example (challenge 7)
