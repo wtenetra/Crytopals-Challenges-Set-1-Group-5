@@ -7,7 +7,7 @@ This repository contains the code for Set 1 of the Cryptopal Challenges. The goa
  - 'Main.cpp': Contains main code for Challenge 1
  
  -  ## Project Structure Challenge 2
- - Cryptopals.h: Contains functions and implementation
+ - 'Cryptopals.h': Contains functions and implementation
  - 'Main.cpp': Contains main code for Challenge 2
 
  -  ## Project Structure Challenge 3
@@ -25,8 +25,8 @@ This repository contains the code for Set 1 of the Cryptopal Challenges. The goa
  - '6.txt': Contains the text file need for decryption
    
  -  ## Project Structure Challenge 7
- - 'crypto.cpp': Contains the main code for Challenge 7
- - 'Crytopals.h': Header file with utility functions.
+ - 'Crytopals_ch7.cpp': Contains the main code for Challenge 7
+ - 'Crytopals_ch7.h': Header file with utility functions.
  - 'ch7.txt': Text file with Base64-encoded content encrypted via AES-128 in ECB mode.
    
  -  ## Project Structure Challenge 8
